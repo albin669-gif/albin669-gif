@@ -67,12 +67,9 @@ Rather than spotlighting one or two projects, here's my whole body of work at a 
 ---
 
 ## 📊 GitHub Stats
-
 <div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=albin669-gif&show_icons=true&hide_border=true&bg_color=0D1117&title_color=B026FF&icon_color=00F5FF&text_color=C9D1D9&border_color=B026FF"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=albin669-gif&layout=compact&hide_border=true&bg_color=0D1117&title_color=B026FF&text_color=C9D1D9&border_color=00F5FF"/>
-
+<img height="180em" src="https://github-readme-stats-beta-coral.vercel.app/api?username=albin669-gif&show_icons=true&hide_border=true&bg_color=0D1117&title_color=B026FF&icon_color=00F5FF&text_color=C9D1D9&border_color=B026FF"/>
+<img height="180em" src="https://github-readme-stats-beta-coral.vercel.app/api/top-langs/?username=albin669-gif&layout=compact&hide_border=true&bg_color=0D1117&title_color=B026FF&text_color=C9D1D9&border_color=00F5FF"/>
 </div>
 
 ### 🔥 Streak Stats
