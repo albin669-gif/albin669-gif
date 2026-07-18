@@ -81,12 +81,10 @@ Rather than spotlighting one or two projects, here's my whole body of work at a 
 </div>
 
 ### 🏆 Trophies
-
 <div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=albin669-gif&theme=algolia&no-frame=true&no-bg=true&column=4&margin-w=15&margin-h=15&row=2"/>
-
+<img src="https://github-profile-trophy-albin9.vercel.app/?username=albin669-gif&theme=algolia&no-frame=true&no-bg=true&column=4&margin-w=15&margin-h=15&row=2"/>
 </div>
+
 
 ### 📈 Contribution Activity
 
