@@ -6,7 +6,7 @@
 
 ### AI & Data Science Enthusiast | Cybersecurity | Web Developer | B.Tech CSE Student
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=00F5FF&center=true&vCenter=true&width=800&lines=Exploring+AI+%2F+ML+%F0%9F%A4%96;Cybersecurity+%7C+Web+Developer;B.Tech+CSE+Student+%40+S-VYASA;Building+%E2%80%A2+Breaking+%E2%80%A2+Learning+%F0%9F%9A%80" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=00F5FF&center=true&vCenter=true&width=800&lines=+AI+%2F+ML+%F0%9F%A4%96;Cybersecurity+%7C+Web+Developer;B.Tech+CSE+Student+%40+S-VYASA;Learning+%E2%80%A2+Building+%E2%80%A2+Growing+%F0%9F%9A%80" />
 <br/>
 <img src="https://komarev.com/ghpvc/?username=albin669-gif&label=Profile%20Views&color=B026FF&style=for-the-badge" />
 <img src="https://img.shields.io/github/followers/albin669-gif?label=Followers&style=for-the-badge&color=00F5FF&labelColor=0D1117" />
