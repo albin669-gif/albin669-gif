@@ -105,7 +105,6 @@ Rather than spotlighting one or two projects, here's my whole body of work at a 
 
 <img src="https://raw.githubusercontent.com/albin669-gif/albin669-gif/output/github-contribution-grid-snake-dark.svg"/>
 
-<sub>⚠️ This animates only after you enable the <a href="https://github.com/Platane/snk">Platane/snk</a> GitHub Action in your <code>albin669-gif/albin669-gif</code> repo — see note below.</sub>
 
 </div>
 
