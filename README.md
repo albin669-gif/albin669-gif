@@ -2,13 +2,11 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:B026FF,100:00FFF5&height=150&section=header&animation=twinkling"/>
 
-<img src="https://raw.githubusercontent.com/albin669-gif/albin669-gif/main/assets/profile.jpg" width="150" style="border-radius:50%;border:3px solid #00F5FF;" alt="Albin Biju"/>
-
 # Albin Biju
 
 ### AI & Data Science Enthusiast | Cybersecurity | Web Developer | B.Tech CSE Student
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=00F5FF&center=true&vCenter=true&width=800&lines=Exploring+AI+%2F+ML+Pipelines+%F0%9F%A4%96;Cybersecurity+%7C+Web+Developer;B.Tech+CSE+Student+%40+S-VYASA;Building+%E2%80%A2+Breaking+%E2%80%A2+Learning+%F0%9F%9A%80" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=00F5FF&center=true&vCenter=true&width=800&lines=Exploring+AI+%2F+ML++%F0%9F%A4%96;Cybersecurity+%7C+Web+Developer;B.Tech+CSE+Student+%40+S-VYASA;Learning+%E2%80%A2+Building+%E2%80%A2+Growing+%F0%9F%9A%80" />
 
 <br/>
 
